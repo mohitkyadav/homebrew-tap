@@ -1,6 +1,6 @@
 cask "scope" do
-  version "1.1.0"
-  sha256 "61f7a09a67f50c3ef76d9381be773571bd57d1fc2b380e645ed42e3bb813b2a2"
+  version "1.2.0"
+  sha256 "67416e1537bc1ca63ba2cf4c32531bac878f9802ef2d03d1df4a3be50ee48c02"
 
   url "https://github.com/mohitkyadav/scope/releases/download/v#{version}/Scope-#{version}.zip"
   name "Scope"
